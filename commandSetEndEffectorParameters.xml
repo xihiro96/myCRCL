@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CRCLCommandInstance
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../xmlSchemas/CRCLCommandInstance.xsd">
+  <CRCLCommand xsi:type="SetEndEffectorParametersType">
+    <CommandID>17</CommandID>
+    <ParameterSetting>
+      <ParameterName>rhabdaciousness</ParameterName>
+      <ParameterValue>on</ParameterValue>
+    </ParameterSetting>
+    <ParameterSetting>
+      <ParameterName>fluoxity</ParameterName>
+      <ParameterValue>33</ParameterValue>
+    </ParameterSetting>
+  </CRCLCommand>
+</CRCLCommandInstance>
+
