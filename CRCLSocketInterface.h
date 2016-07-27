@@ -8,7 +8,7 @@
 #include "crac/CRCLStatusClasses.hh"
 #include "crac/crclCmds.hh"
 
-#include <shared_ptr.h>
+#include "shared_ptr.h"
 
 #include <boost/asio.hpp>
 
